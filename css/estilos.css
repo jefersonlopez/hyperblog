@@ -4,6 +4,15 @@ body
     text-align: center;
    font-family: "Arial"; 
 }
+#cabecera
+{
+   background: beige;
+   color: white;
+   font-weight: bold;
+   margin: 0;
+   padding: 0.5em;
+}
+
 #container
 {
    width: 70%;
